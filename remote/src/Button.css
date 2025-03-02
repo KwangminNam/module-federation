@@ -1,0 +1,9 @@
+.fency-button {
+  background-color: blue;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  
+}
